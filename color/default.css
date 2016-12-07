@@ -1,0 +1,39 @@
+
+a,a:hover {
+	color: rgb(131,195,65);
+}
+
+.intro .page-scroll a:hover {
+	color: rgb(131,195,65);
+}
+
+.icon:hover .fa{
+	color: rgb(131,195,65);
+}
+
+ul.nav li a:hover {
+	color: rgb(131,195,65);
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: rgb(131,195,65);
+}
+
+.bg-skin {
+	background: rgb(131,195,65);
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: rgb(131,195,65);
+}
+
+footer {
+    background-color: rgb(131,195,65);
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: rgb(131,195,65);
+  border-color: rgb(131,195,65);
+}
